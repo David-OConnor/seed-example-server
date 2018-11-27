@@ -1,0 +1,4 @@
+[staging]
+
+[production]
+base_url = "https://rebar.herokuapp.com"
