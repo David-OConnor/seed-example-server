@@ -1,4 +1,4 @@
 [staging]
 
 [production]
-base_url = "https://rebar.herokuapp.com"
+base_url = "https://seed-example.herokuapp.com"
